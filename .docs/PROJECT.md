@@ -6,16 +6,20 @@ This repository packages reusable Codex workflow assets for personal multi-proje
 
 ## Current Product Shape
 
-Planned deliverables for the first version:
+Implemented in the first release:
 
 - canonical `quick` and `milestone` skill folders
 - shared AGENTS workflow block template
 - Node CLI with `install`, `check`, and `update` commands
 - local install manifest for version visibility and upgrades
-- GitHub-hosted source of truth for future pull/push workflows
+- GitHub-hosted source repo on `main`
 
 ## Active Milestones
 
-**M01 Shared Codex Workflow Distribution CLI -- ACTIVE (started 2026-03-11)**
+No active milestones.
 
-Goal: create a minimal central repository that can distribute the shared workflow skills into other repos with a simple version-aware install/update flow.
+## Recent Completed Milestones
+
+**M01 Shared Codex Workflow Distribution CLI -- COMPLETE (completed 2026-03-11)**
+
+Created the initial central repo, added the first working distribution CLI, verified local and GitHub-backed execution paths, and pushed the initial history to GitHub.
