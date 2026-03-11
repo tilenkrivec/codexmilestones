@@ -1,0 +1,4 @@
+interface:
+  display_name: "Quick"
+  short_description: "Planned quick tasks with commits and verification"
+  default_prompt: "Start a quick task for this repo, create the planning artifacts, execute in atomic chunks, commit completed chunks, and finish with summary and verification."

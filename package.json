@@ -1,0 +1,24 @@
+{
+  "name": "codexmilestones",
+  "version": "0.1.0",
+  "description": "Personal Codex workflow skill distribution CLI for quick and milestone lanes.",
+  "type": "module",
+  "bin": {
+    "codexmilestones": "./bin/codexmilestones.js"
+  },
+  "files": [
+    "bin",
+    "skills",
+    "templates",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tilenkrivec/codexmilestones.git"
+  },
+  "license": "UNLICENSED",
+  "private": false
+}

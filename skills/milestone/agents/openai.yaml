@@ -1,0 +1,4 @@
+interface:
+  display_name: "Milestone"
+  short_description: "Named milestone planning, execution, commits, and review"
+  default_prompt: "Start or continue a named milestone for this repo, keep concurrent milestone state explicit in .docs/STATE.md and .docs/PROJECT.md, execute milestone-local phases in completed atomic chunks with separate fix commits as needed, and complete milestone verification and review after actual checks."
