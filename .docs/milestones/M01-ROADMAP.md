@@ -1,6 +1,6 @@
 # M01 Roadmap: Shared Codex Workflow Distribution CLI
 
-- [ ] **Phase P1: Repo Foundation And Distribution Plan**
+- [x] **Phase P1: Repo Foundation And Distribution Plan**
   Initialize the repository, define the packaging approach, create milestone planning docs, and lock the asset/manifest model.
 
 - [ ] **Phase P2: CLI And Asset Installation**

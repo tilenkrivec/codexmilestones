@@ -4,9 +4,9 @@ active_milestones:
   - id: M01
     name: Shared Codex Workflow Distribution CLI
     status: active
-    current_phase: P1
-    next_plan: P1-01
-last_updated: "2026-03-11T00:00:00Z"
+    current_phase: P2
+    next_plan: P2-01
+last_updated: "2026-03-11T09:25:00Z"
 progress:
   active_milestone_count: 1
   completed_milestones: 0
@@ -20,16 +20,16 @@ progress:
 See: .docs/PROJECT.md
 
 **Core value:** A central, versioned home for reusable Codex workflow assets so multiple repos can install the same `quick` and `milestone` skill set without copy-paste drift.
-**Current focus:** M01/P1 define the distribution model, repo layout, and initial CLI plan before implementation begins.
+**Current focus:** M01/P2 is implementing the first working CLI and shared asset layout for install/check/update flows.
 
 ## Active Milestones
 
 ### M01 Shared Codex Workflow Distribution CLI -- ACTIVE
 
-Current phase: `M01/P1`
-Next plan: `P1-01`
+Current phase: `M01/P2`
+Next plan: `P2-01`
 
-The repo is being initialized to distribute the `quick` and `milestone` skills, plus a shared AGENTS workflow block, through a small Node CLI that can install, check, and update a pinned snapshot inside other projects.
+The repo is now past planning. The active work is building the shared asset layout and the first usable CLI around vendored skill installs, a target manifest, and marker-based AGENTS workflow syncing.
 
 ## Shared Working Context
 
