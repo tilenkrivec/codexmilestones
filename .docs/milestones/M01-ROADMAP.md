@@ -3,7 +3,7 @@
 - [x] **Phase P1: Repo Foundation And Distribution Plan**
   Initialize the repository, define the packaging approach, create milestone planning docs, and lock the asset/manifest model.
 
-- [ ] **Phase P2: CLI And Asset Installation**
+- [x] **Phase P2: CLI And Asset Installation**
   Implement the Node CLI, asset copy logic, AGENTS block management, and manifest writing for install/check/update flows.
 
 - [ ] **Phase P3: Verification, Docs, And Publish Flow**
